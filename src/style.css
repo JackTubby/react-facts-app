@@ -53,7 +53,7 @@ nav.dark {
 }
 
 .toggler p {
-    font-size: 0.625rem;
+    font-size: 1.2rem;
     font-weight: 600;
 }
 
@@ -126,7 +126,7 @@ main.dark {
 
 .main--title {
     margin: 0;
-    font-size: 39px;
+    font-size: 46px;
     letter-spacing: -0.05em;
 }
 
@@ -136,11 +136,12 @@ main.dark {
 }
 
 .main--facts > li {
-    line-height: 19px;
+    line-height: 24px;
     padding-block: 10px;
+    font-size: 26px;
 }
 
 .main--facts > li::marker {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     color: #61DAFB;
 }
